@@ -1,7 +1,7 @@
 # Human detection and recognition in video
 
 This code is part of bachelor thesis for human detection and recognition 
-in video. It is written in Python programming language. 
+in video [2018-2019]. It is written in Python programming language. 
 
 ## Required libraries
 
